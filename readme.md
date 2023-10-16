@@ -1,4 +1,6 @@
-# Factory Design Pattern  :factory:
+# Factory Design Pattern 
+
+<img width="1042" alt="factory" src="https://github.com/NdiranguMuchai/factory-method-design-pattern-sample/assets/47880944/4dcd06f6-f5b1-4ff8-be92-a70e286ee36d">
 
 Factory design is a pattern that falls under the `Creational Design Pattern`.
 It is a popular pattern in Java and used not only in the JDK, but also across many open source projects such as `Spring`. 
